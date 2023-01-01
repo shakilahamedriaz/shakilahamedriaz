@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahamed Riaz</h1>
 <h3 align="center">A passionate Software Engineering Student from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="center" alt="coding" width="390" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahamedriaz&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahamedriaz" /> </p>
 
