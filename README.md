@@ -1,4 +1,4 @@
-![logo](https://github.com/shakilahamedriaz/shakilahamedriaz/blob/main/dfed.png)
+
 
 <h1 align="center">Hi 👋, I'm Shakil Ahamed Riaz</h1>
 <h3 align="center">A passionate Software Engineering Student from Bangladesh</h3>
