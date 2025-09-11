@@ -2,7 +2,7 @@
 
 **Software Engineering Student | Data Science Major | AI & Full-Stack Developer**  
 
-📍 Dhaka, Bangladesh | 📧 shakilahamedriaz@gmail.com | [LinkedIn](https://linkedin.com/in/shakilahamedriaz) | [GitHub](https://github.com/shakilahamedriaz)  
+📍 Dhaka, Bangladesh | 📧 shakilahamedriaz@gmail.com | [LinkedIn](https://linkedin.com/in/shakilahamedriaz) 
 
 ---
 
@@ -22,7 +22,7 @@ Currently pursuing a **B.Sc. in Software Engineering (Major in Data Science)** a
 
 ---
 
-## Selected Projects  
+## Recent Full Stack Projects  
 
 - **[GreenCart – Carbon-Aware Online Marketplace](https://github.com/shakilahamedriaz/E-Commerce-Application)**  
   Full-stack AI-powered e-commerce platform with **carbon footprint tracking, semantic product search (Pinecone), secure payments, and intelligent chatbot**.  
