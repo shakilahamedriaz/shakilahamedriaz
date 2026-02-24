@@ -2,7 +2,7 @@
 
 **Software Engineering Student | Data Science Major | AI & Full-Stack Developer**  
 
-📍 Dhaka, Bangladesh | 📧 shakilahamedriaz@gmail.com | [LinkedIn](https://linkedin.com/in/shakilahamedriaz) 
+📍 Dhaka, Bangladesh | [LinkedIn](https://linkedin.com/in/shakilahamedriaz) 
 
 ---
 
